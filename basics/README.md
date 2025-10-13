@@ -1,1 +1,3 @@
-Writing a script to run on ubuntu for holberton school shell
+0-current-working_directory: A script to show the working pathway
+
+1-lisit a script to Display the contents list of your current directory.
