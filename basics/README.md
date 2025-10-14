@@ -10,3 +10,4 @@
 
 7-movethatfile - move a file
 
+8-firstdelete - delete file
